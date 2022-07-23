@@ -1,10 +1,12 @@
-
 // Escreva uma função que receba 6 valores (a,b,c,d,e,f) como argumentos
 // Soma a e b
 // Então subtrai por c
 // Multiplica por d e divide por e
 // Finalmente aumenta a potência de f e retorne o resultado
 
+/*
+ * @author Gabriel Moura Guimarães |
+ */
 
 const a = 5.7, b = 9.1, c = 2.7, d = 6.0, e = 1.6, f = 2.5, res = undefined;
 

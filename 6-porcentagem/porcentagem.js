@@ -1,6 +1,10 @@
 // Escreva uma função que receba dois valores como argumento e 
 // Return 'porcentagem' por cento de 'valor'
 
+/*
+ * @author Gabriel Moura Guimarães |
+ */
+
 const valor = 45;
 const porcentagem = 3;11
 const resposta = undefined;
