@@ -35,5 +35,3 @@ res == e;
 potencia(e, f, res);
 
 return res;
-
-
