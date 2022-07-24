@@ -8,7 +8,7 @@ Esta série de desafios abrange o básico do Javascript.
 - Soma dois números
 - Operadores de comparação, igualdade estrita
 - Obter tipo de valor
-- Obter nº caractere de string
+- Obter o enésimo caractere de uma string
 - Remover os primeiros n caracteres de string
 - Obter os últimos n caracteres de string
 - Obter primeiro n caracteres de string

@@ -15,18 +15,18 @@ Esta série de desafios abrange o básico.
 - Remover os primeiros n caracteres de string
 - Obter os últimos n caracteres de string
 - Obter primeiro n caracteres de string
-- Extrair a primeira metade da corda
+- Extrair a primeira metade da string
 - Remover os últimos n caracteres de string
 - Retornar a porcentagem de um número
 - Operadores de matemática JavaScript básicos
-- Verifique se uma sequência contém outra corda e concatena
-- Verifique se um número está empatado
-- Quantas vezes um personagem ocorre?
+- Verifique se uma sequência contém outra string e concatena
+- Verifique se um número é par
+- Quantas vezes uma string ocorre em outra?
 - Verifique se um número é um número inteiro
 - Operadores de multiplicação, divisão e comparação
 - Arredondar um número para 2 casas decimais
 - Divida um número em seus dígitos
-- Esclalá-lo o caos por trás dessas cordas
+- Esclalá-lo o caos por trás dessas strings
 - Retorne o próximo número primo mais alto
 - Encontre o próximo número natural maior que seja divisivelmente por y
 - Inserir caracteres após cada caractere n (ao contrário)
