@@ -11,3 +11,4 @@ const n = 3;
 const enesimoCaractere = (string, n) => {
     return string[n]
 };
+console.log(enesimoCaractere(string, n))

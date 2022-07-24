@@ -1,9 +1,13 @@
 # TREINO JAVASCRIPT #
----
-### JavaScript Básico ###
----
-Esta série de desafios abrange o básico do Javascript.
+### Fundamentos do Javascript ###
 
+---
+
+#### Javascript Básico
+
+Esta série de desafios abrange o básico.
+
+###### Desafios
 - Soma dois números
 - Operadores de comparação, igualdade estrita
 - Obter tipo de valor
