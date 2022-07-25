@@ -5,4 +5,4 @@
 #### Javascript Básico 👨‍💻
 Esta série de desafios abrange o básico do Javascript.
 ###### Questão
-Escreve uma função que recebe um valor como argumento e retorna o tipo do valor.
+Escreva uma função que recebe um número (a) como argumento, arredonda a para o 2ª casa decimal após a vírgula e retorna o número arredondado

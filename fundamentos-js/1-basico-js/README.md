@@ -3,7 +3,7 @@
 
 ---
 
-#### Javascript Básico
+#### Javascript Básico 👨‍💻
 
 Esta série de desafios abrange o básico.
 

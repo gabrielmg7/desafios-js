@@ -1,7 +1,3 @@
-// Escreva uma função que leve um número (x) como argumento
-// Se um é um número inteiro (não tem lugar decimal), retorne verdadeiro
-// Caso contrário, devolva falso
-
 /*
  * @author Gabriel Moura Guimarães |
  */
