@@ -9,9 +9,9 @@ const separaDigitos = (a) => {
         a = Math.trunc(a / 10);
     }
 
-    digitos.reverse();
+   return digitos.reverse();
 
-    return console.log(digitos);
+
 }
 
-separaDigitos(a);
+console.log(separaDigitos(a));

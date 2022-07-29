@@ -8,32 +8,37 @@
  * @author Gabriel Moura Guimarães |
  */
 
-const a = 5.7, b = 9.1, c = 2.7, d = 6.0, e = 1.6, f = 2.5, res = undefined;
+const a = 5.7, b = 9.1, c = 2.7, d = 6.0, e = 1.6, f = 2.5, res = 0;
 
 const soma = (x, y, res) => {
-    return (res = x + y);
+    console.log(res = x + y);
 };
 const subtrai = (x, y, res) => {
-    return (res = x - y);
+    console.log(res = x - y);
 };
 const divide = (x, y, res) => {
-    return (res = x / y);
+    console.log(res = x / y);
 };
 const multiplica = (x, y, res) => {
-    return (res = x * y);
+    console.log(res = x * y);
 };
 const potencia = (base, expoente, res) => {
     console.log(res = Math.pow(base, expoente))
 }
 
+//TESTANDO
+
 soma(a, b, res);
 res == b;
+
 subtrai(b, c, res);
 res == c;
+
 multiplica(c, d, res);
 res == d;
+
 divide(d, e, res);
 res == e;
-potencia(e, f, res);
 
-return res;
+potencia(e, f, res);
+console.log(res)

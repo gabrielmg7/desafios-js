@@ -4,4 +4,5 @@
 ---
 #### Javascript Básico 👨‍💻
 Esta série de desafios abrange o básico do Javascript.
-###### Questão
+###### Questão 
+Escreva uma função que recebe uma string (a) como argumento. Remove os 3 primeiros caracteres e retorna o resultado.

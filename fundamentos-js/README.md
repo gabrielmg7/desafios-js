@@ -21,7 +21,7 @@ Esta série de desafios abrange o básico do Javascript.
 - Quantas vezes um personagem ocorre?
 - Verifique se um número é um número inteiro
 - Operadores de multiplicação, divisão e comparação
-- Arredondar um número para 2 casas decimais
+- Arredondar um número para 2 casas decimaisk
 - Divida um número em seus dígitos
 - Esclalá-lo o caos por trás dessas cordas
 - Retorne o próximo número primo mais alto
