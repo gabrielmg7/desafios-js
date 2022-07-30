@@ -26,7 +26,7 @@ Esta série de desafios abrange o básico.
 - Operadores de multiplicação, divisão e comparação
 - Arredondar um número para 2 casas decimais
 - Divida um número em seus dígitos
-- Esclalá-lo o caos por trás dessas strings
+- Clean/sort/join em strings
 - Retorne o próximo número primo mais alto
 - Encontre o próximo número natural maior que seja divisivelmente por y
 - Inserir caracteres após cada caractere n (ao contrário)
