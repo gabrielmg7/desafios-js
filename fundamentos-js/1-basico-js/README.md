@@ -7,7 +7,7 @@
 
 Esta série de desafios abrange o básico.
 
-###### Desafios
+##### Desafios
 - Soma dois números
 - Operadores de comparação, igualdade estrita
 - Obter tipo de valor
