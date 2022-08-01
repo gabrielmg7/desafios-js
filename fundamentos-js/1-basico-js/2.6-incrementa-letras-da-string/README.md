@@ -10,3 +10,13 @@ Escreva uma função que receba uma sequência como argumento
 Como está, a string não tem significado
 Incremente cada letra para a próxima letra no alfabeto
 Devolva a palavra correta
+
+#### Casos de teste:
+- chamadaDaFuncao('bnchmf')
+Esperado: 'coding'
+
+- chamadaDaFuncao('bgddrd')
+Esperado: 'cheese'
+
+- chamadaDaFuncao('sdrshmf')
+Esperado: 'testing'
