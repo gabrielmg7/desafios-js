@@ -2,7 +2,7 @@
 ---
 ### Fundamentos do Javascript ###
 ---
-#### Datas Javascript
+#### Javascript Datas
 Esta série de desafios testa seu conhecimento sobre datas javascript.
 ###### Desafios
 - Verifique se duas datas são iguais
