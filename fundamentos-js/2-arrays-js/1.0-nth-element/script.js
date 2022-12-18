@@ -1,9 +1,6 @@
 function nthElement(a, n) {
-   const res = [];
-   
-    return res
+    return a[n - 1];
 }
-
 
 //CASOS DE TESTE
 console.log(nthElement([1, 2, 3, 4, 5], 3))
