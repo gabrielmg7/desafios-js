@@ -1,4 +1,4 @@
-function sortAlphabetically (arr) {
+function ordemAlfabetica (arr) {
   return arr.sort();
 }
 
