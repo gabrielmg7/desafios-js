@@ -1,10 +1,9 @@
 # TREINO JAVASCRIPT #
----
 ### Fundamentos do Javascript ###
 ---
 #### Javascript Arrays
 Esta série de desafios testa seu conhecimento sobre as matrizes Javascript
-###### Questão:
+#### Questão:
 Escreva uma função que receba um array (a) e um valor(n) como argumento, e retorne o n-ésimo elemento de 'a' 
 #### Casos de teste:
 - chamadaDaFuncao([1, 2, 3, 4, 5], 3)

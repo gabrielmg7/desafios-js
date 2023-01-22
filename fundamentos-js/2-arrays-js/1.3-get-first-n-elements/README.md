@@ -1,10 +1,9 @@
 # TREINO JAVASCRIPT #
----
 ### Fundamentos do Javascript ###
 ---
 #### Javascript Arrays
 Esta série de desafios testa seu conhecimento sobre as matrizes Javascript
-###### Questão 
+#### Questão 
 Escreva uma função que tenha uma matriz (a) como argumento. Extraia os 3 primeiros elementos de a. Retorne a matriz resultante
 #### Casos de Teste:
 
