@@ -1,5 +1,5 @@
 function valoresNegativos(array) {
-    let negativeArray = array.filter(number => number < 0)
+    let negativeArray = array.filter(number => number < 0);
     return negativeArray.length
 }
 
