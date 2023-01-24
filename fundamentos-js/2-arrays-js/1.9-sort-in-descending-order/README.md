@@ -4,7 +4,8 @@
 ---
 #### Javascript Arrays
 Esta série de desafios testa seu conhecimento sobre as matrizes Javascript
-#### Questão 
+#### Questão:
+Escreva uma função que recebe um array de números como argumento. Deve retornar um array com os números ordenados em ordem decrescente.
 
 #### Casos de Teste:
 
