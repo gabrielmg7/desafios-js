@@ -1,5 +1,5 @@
 function myFunction(arr) {
-    return arr.reduce((a, b) => a.length >= b.length ? a : b)
+    return arr.reduce((a, b) => (a.length >= b.length ? a : b))
 }
 
 console.log(myFunction(['help', 'me'])) //Esperado: 'help'
