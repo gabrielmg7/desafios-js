@@ -15,5 +15,5 @@ Escreva uma função que recebe um número e te devolve o fatorial dele'
 - chamadaDaFuncao(0)
     - Esperado: '1'
 
-- chamadaDaFuncao([7, 2, 1, 6, 3], 1)
-    - Esperado: '7'
+- chamadaDaFuncao(-5)
+    - Esperado: 'inexistente'
